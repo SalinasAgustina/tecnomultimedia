@@ -3,7 +3,7 @@ PImage cloe;
 void setup() {
   size(800, 400);
   
-  cloe = loadImage ("");
+  cloe = loadImage ("cloe.png");
   
 }
 
